@@ -1,0 +1,48 @@
+.fas{
+width:7rem;
+height:7rem;
+font-size:8rem;
+margin:auto;
+}
+#calling{
+width:300px;
+height:500px;
+border:2px solid black;
+
+
+}
+#recieve{
+width:135px;
+height:105px;
+
+float:left;
+border-radius:80%;
+}
+#cut{
+width:125px;
+height:100px;
+
+float:right;
+border-radius:50%;
+
+}
+#imgp{
+width:250px;
+height:290px;
+border:2px solid black;
+box-shadow:0 1.2rem 3rem 0.5rem rgba(0,0,0,0.4);
+border-radius:50%;
+
+}
+#main{
+visibility:hidden;
+}
+.h3{
+color:black;
+text-align:center;
+}
+.btns{
+width:300px;
+border:1px solid green;
+height:104px;
+}
